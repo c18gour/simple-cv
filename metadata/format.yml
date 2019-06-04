@@ -9,7 +9,6 @@ author:
 - Chrysoula Gournara # This is the *author*, not the person, though it’s likely the same.
 author-lastname-first: # Same as above, but for Dublin Core metadata
 - "Gournara Chrysoula"
-- "Jones, Henry Walton"
 mode: markdown # or yaml. Yaml mode, however, is a future feature.
 contact-information: Contact Information # The text for the contact information header.
 markers: # The glyphs that begin lists
