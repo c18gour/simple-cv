@@ -4,8 +4,6 @@
 # “sections/fields.md.”
 fields
 education
-hobbies
 teaching
-service
-skills
+hobbies
 languages
