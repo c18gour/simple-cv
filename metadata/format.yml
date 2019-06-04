@@ -7,7 +7,6 @@
 title: "Chrysoula Gournara CV" # This is for the pdf metadata and <title> in html
 author:
 - Chrysoula Gournara # This is the *author*, not the person, though it’s likely the same.
-- Henry Walton Jones, Jr.
 author-lastname-first: # Same as above, but for Dublin Core metadata
 - "Gournara Chrysoula"
 - "Jones, Henry Walton"
