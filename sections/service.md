@@ -1,6 +1,3 @@
-## Service & Related Professional Activities
+## Service
 
-* Gateway Project
-* Boy Scouts of America
-* Anti-fascists in Archæology
-* University of Chicago Alumni Network
+* Ephorate Antiquites of Achaia, Working since 1998
